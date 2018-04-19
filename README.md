@@ -2,8 +2,8 @@
 
 Leetcode with python
 
-1. Two Sum
-2. Add Two Sum
-3. Longest Substring without Repeating Characters  
-4. The Longest Increasing Subsequence  
+1. [Two Sum](https://leetcode.com/problems/two-sum/description/)
+2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+3. [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  
+4. [The Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)  
 
