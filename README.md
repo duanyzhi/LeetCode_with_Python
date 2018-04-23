@@ -6,5 +6,6 @@ Leetcode with python
 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 3. [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)  
 4. [The Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)   
-5. [Maximum Product Subarry](https://leetcode.com/problems/maximum-product-subarray/description/)  
+5. [Maximum Product Subarry](https://leetcode.com/problems/maximum-product-subarray/description/)   
+6. [Maximal Square](https://leetcode.com/problems/maximal-square/description/)  
 
