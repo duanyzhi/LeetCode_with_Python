@@ -8,6 +8,7 @@ Leetcode with python
 4. [The Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)   
 5. [Maximum Product Subarry](https://leetcode.com/problems/maximum-product-subarray/description/)   
 6. [Maximal Square](https://leetcode.com/problems/maximal-square/description/)   
-7. [Subsets](https://leetcode.com/problems/subsets/description/)  
+7. [Subsets](https://leetcode.com/problems/subsets/description/)   
+8. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  
 
 
