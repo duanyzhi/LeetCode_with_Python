@@ -9,6 +9,8 @@ Leetcode with python
 5. [Maximum Product Subarry](https://leetcode.com/problems/maximum-product-subarray/description/)   
 6. [Maximal Square](https://leetcode.com/problems/maximal-square/description/)   
 7. [Subsets](https://leetcode.com/problems/subsets/description/)   
-8. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  
+8. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)   
+9. [Jump Game](https://leetcode.com/problems/jump-game/description/)  
+
 
 
