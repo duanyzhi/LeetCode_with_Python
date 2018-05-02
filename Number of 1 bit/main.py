@@ -1,0 +1,31 @@
+"""
+Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
+
+Example 1:
+
+Input: 11
+Output: 3
+Explanation: Integer 11 has binary representation 00000000000000000000000000001011
+Example 2:
+
+Input: 128
+Output: 1
+Explanation: Integer 128 has binary representation 00000000000000000000000010000000
+"""
+
+
+class Solution(object):
+    def hammingWeight(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        bits = bin(n)
+        s = list(bits)[2:]
+        count = sum(eval(s_) for s_ in s)
+        return s, count
+
+S = Solution()
+s, count = S.hammingWeight(11)
+print(s)
+print(count)
