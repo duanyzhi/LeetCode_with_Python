@@ -14,7 +14,9 @@ Leetcode with python
 10. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)   
 11. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)  
 12. [ZigZag](https://leetcode.com/problems/zigzag-conversion/description/)  
-13. [Number of 1 bit](https://leetcode.com/problems/number-of-1-bits/description/)  
+13. [Number of 1 bit](https://leetcode.com/problems/number-of-1-bits/description/)   
+14. [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/)  
+
 
 
 
