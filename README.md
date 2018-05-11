@@ -16,8 +16,8 @@ Leetcode with python
 12. [ZigZag](https://leetcode.com/problems/zigzag-conversion/description/)  
 13. [Number of 1 bit](https://leetcode.com/problems/number-of-1-bits/description/)   
 14. [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/)  
-15. XOR  
-16. continue area in 2D matrix  
+15. [XOR](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/xor/main.py)    
+16. [continue area in 2D matrix](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/continue_area_in_2D_matrix/main.py)    
 
 
 
