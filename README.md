@@ -18,6 +18,9 @@ Leetcode with python
 14. [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/)  
 15. [XOR](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/xor/main.py)    
 16. [continue area in 2D matrix](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/continue_area_in_2D_matrix/main.py)    
+17. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)  
+18. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)  
+19. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)  
 
 
 
