@@ -22,6 +22,8 @@ Leetcode with python
 18. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)  
 19. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)   
 20. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)   
+21. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
+
 
 
 
