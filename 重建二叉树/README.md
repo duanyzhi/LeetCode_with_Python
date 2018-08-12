@@ -39,7 +39,7 @@ root：3    左： 5           右： 8，6
 
 构建完成：
 
-![重建二叉树](/Users/dyz/Documents/learning/code/Leetcode/重建二叉树/重建二叉树.png)
+![重建二叉树](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.png)
 
 对应的后序遍历：先左后右最后root:
 
