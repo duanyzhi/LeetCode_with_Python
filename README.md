@@ -23,6 +23,8 @@ Leetcode with python
 19. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)   
 20. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)   
 21. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
+22. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)  
+23. [Decode Ways](https://leetcode.com/problems/decode-ways/description/)   
 
 
 
