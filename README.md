@@ -25,6 +25,8 @@ Leetcode with python
 21. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
 22. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)  
 23. [Decode Ways](https://leetcode.com/problems/decode-ways/description/)   
+24. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)  
+
 
 
 
