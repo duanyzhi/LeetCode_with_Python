@@ -27,7 +27,8 @@ Leetcode with python
 23. [Decode Ways](https://leetcode.com/problems/decode-ways/description/)   
 24. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)  
 25. [Coin Change](https://leetcode.com/problems/coin-change/description/)
-26. 
+26. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/)
+27. 
 
 
 
