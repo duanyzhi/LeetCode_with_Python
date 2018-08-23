@@ -19,12 +19,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        for ii in range(len(nums)-1):
-            for jj in range(ii + 1, len(nums)):
-                if nums[ii] + nums[jj] == target:
-                    return [ii, jj]
-                else:
-                    pass
+        d={}
+        for i,num in enumerate(nums):
+            if target-num in d:
+                return d[target-num], i
+            d[num]=i
+        else:
+            return -1
 
 S = Solution()
 num_in = input()
