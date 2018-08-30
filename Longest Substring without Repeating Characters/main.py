@@ -4,6 +4,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        if len(s) == 1: # 长度为1情况
+            return 1
         big_str = ''
         cur_str = ''
         for ii in range(len(s)):
