@@ -38,7 +38,7 @@
 |              | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |                    |
 | :smile:      | [3Sum](https://leetcode.com/problems/3sum/description/)      |                    |
 | :smile:      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 数字对应字符串组合 |
-|              |                                                              |                    |
+|  🤔          | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
