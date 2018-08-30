@@ -50,7 +50,7 @@ Leetcode with python
 |              | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |      |
 |              | [Jump Game](https://leetcode.com/problems/jump-game/description/) |      |
 |              | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |      |
-|              | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |      |
+| 🤔           | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |      |
 |              | [ZigZag](https://leetcode.com/problems/zigzag-conversion/description/) |      |
 |              | [Number of 1 bit](https://leetcode.com/problems/number-of-1-bits/description/) |      |
 |              | [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/) |      |
