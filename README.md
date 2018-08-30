@@ -32,7 +32,13 @@ Leetcode with python
 
 
 
+​:smile:  ： 没问题
 
+✅： 独立通过一次
+
+❎：不行
+
+🤨：一点不会
 
 | 题目完成情况 | 题目名称                                                     | 说明 |
 | ------------ | ------------------------------------------------------------ | ---- |
@@ -64,7 +70,7 @@ Leetcode with python
 |              | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |      |
 |              | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |      |
 |              | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) |      |
-|              |                                                              |      |
+| ✅            | [3Sum](https://leetcode.com/problems/3sum/description/)      |      |
 |              |                                                              |      |
 |              |                                                              |      |
 |              |                                                              |      |
