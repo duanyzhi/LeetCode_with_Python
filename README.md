@@ -39,7 +39,7 @@
 | :smile:      | [3Sum](https://leetcode.com/problems/3sum/description/)      |                    |
 | :smile:      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 数字对应字符串组合 |
 |  🤔          | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |                    |
-|              |                                                              |                    |
+|              | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 验证括号合法性 |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
