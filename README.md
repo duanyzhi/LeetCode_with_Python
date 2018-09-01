@@ -42,7 +42,7 @@
 |              | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 验证括号合法性 |
 | ******** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 生成合法括号 |
 |              | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 最长合法符号 |
-|              |                                                              |                    |
+|              | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 数组查找某个数 |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
