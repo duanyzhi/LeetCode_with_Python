@@ -40,12 +40,12 @@
 | :smile:      | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | 数字对应字符串组合 |
 |  🤔          | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |                    |
 |              | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | 验证括号合法性 |
-| ******** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 生成合法括号 |
+|  🤔          | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | 生成合法括号 |
 |              | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | 最长合法符号 |
 |              | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | 数组查找某个数 |
 |              | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |                    |
-|              | [DFS](https://www.programiz.com/dsa/graph-dfs) |                    |
-|              |                                                              |                    |
+|              | [DFS]() |                    |
+|  🤔          | [Permutations](https://leetcode.com/problems/permutations/description/) | 数组全排列 |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
