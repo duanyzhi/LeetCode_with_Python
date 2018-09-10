@@ -46,7 +46,7 @@
 |              | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |                    |
 |              | [DFS]() |                    |
 |  🤔          | [Permutations](https://leetcode.com/problems/permutations/description/) | 数组全排列 |
-|              |                                                              |                    |
+|              | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | 联通的小岛个数 |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
