@@ -47,7 +47,7 @@
 |              | [DFS]() |                    |
 |  🤔          | [Permutations](https://leetcode.com/problems/permutations/description/) | 数组全排列 |
 |              | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | 联通的小岛个数 |
-|              |                                                              |                    |
+|              | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 二叉树深度 |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
