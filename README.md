@@ -50,7 +50,7 @@
 |              | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | 二叉树深度 |
 |              |[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                                                              |  第k个最大的数                  |
 |              |[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                              |  把所有0移到最后                 |
-|              |                                                              |                    |
+|              |[Reach a Number](https://leetcode.com/problems/reach-a-number/description/)                                                              |每步移动N或-N，最少步数                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
