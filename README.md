@@ -21,7 +21,7 @@
 |              | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |                    |
 |              | [ZigZag](https://leetcode.com/problems/zigzag-conversion/description/) |                    |
 |              | [Number of 1 bit](https://leetcode.com/problems/number-of-1-bits/description/) |                    |
-|              | [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/) |                    |
+|              | [Maximum Subarry](https://leetcode.com/problems/maximum-subarray/description/) | 连续子序列最大和                   |
 |              | [XOR](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/xor/main.py) |                    |
 |              | [continue area in 2D matrix](https://github.com/duanyzhi/LeetCode_with_Python/blob/master/continue_area_in_2D_matrix/main.py) |                    |
 |              | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |                    |
@@ -52,7 +52,7 @@
 |              |[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                              |  把所有0移到最后                 |
 |              |[Reach a Number](https://leetcode.com/problems/reach-a-number/description/)                                                              |每步移动N或-N，最少步数                    |
 |              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                                                              |左上角到右下角最小路径和                    |
-|              |                                                              |                    |
+|              |                                                             |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
