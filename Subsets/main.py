@@ -1,24 +1,27 @@
+# Iteratively
+def subsets(nums):
+    res = [[]]
+    for num in sorted(nums):
+        res += [item+[num] for item in res]
+    return res
 
-def Solution(nums):
-    v = [[]]
-    for kk in range(len(nums)):
-        add_vector = []
-        for jj in range(len(v)):
-            if not v[jj]:
-                cur_v = [nums[kk]][::]
-            else:
-                cur_v = v[jj][::]
-                cur_v.append(nums[kk])
-            add_vector.append(cur_v)
-        v.extend(add_vector)
+def subsets1(nums):
+    res = [[]]
+    for num in sorted(nums):
+        sub = []
+        for item in res:
+            sub.append(item+[num])
+        res += sub
+    return res
 
-    return v
+# 输出子序列是连续的
+def subsetsc(nums):
+    sub = []
+    for ii in range(len(nums) + 1):
+        for jj in range(ii +1 , len(nums) + 1):
+            sub.append(nums[ii:jj])
+    return sub
 
-num = [1, 2, 3]
-out = Solution(num)
-print(out)
-
-# out2 = [num[ii:jj] for ii in range(len(num) + 1) for jj in range(ii +1 , len(num) + 1)]  # 连续
-
-
-
+nums = [3, 2, 1]
+o = subsetsc(nums)
+print(o)
