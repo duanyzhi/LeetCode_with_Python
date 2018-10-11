@@ -52,7 +52,7 @@
 |              |[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)                                                              |  把所有0移到最后                 |
 |              |[Reach a Number](https://leetcode.com/problems/reach-a-number/description/)                                                              |每步移动N或-N，最少步数                    |
 |              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)                                                              |左上角到右下角最小路径和                    |
-|              |                                                             |                    |
+|              |[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)                                                             | 和大于某个数的最小序列                   |
 |              |                                                              |                    |
 |              |                                                              |                    |
 |              |                                                              |                    |
